@@ -91,4 +91,4 @@ FORECAST.LINEAR/TREND), Pareto Analysis, ABC Classification
 ## Author
 
 **Spandan Bhoi**
-B.Tech, Industrial Design
+
