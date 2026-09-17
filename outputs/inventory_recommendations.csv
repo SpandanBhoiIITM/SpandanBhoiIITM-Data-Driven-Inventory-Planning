@@ -1,0 +1,51 @@
+Product Name,Mean_Daily_Demand,Std_Daily_Demand,Safety_Stock,Lead_Time_Demand,Reorder_Point,ABC,XYZ,ABC_XYZ,Inventory_Policy,Stockout_Days,Total_Demand,Fulfilled_Demand,Fill_Rate,Average_Inventory
+Allegra 120mg,1.13,2.77,12.11,7.92,20.02,A,Y,AY,High Priority,1,173.0,169.1320158845433,0.98,21.94
+Amlodipine 5mg,0.64,2.05,8.94,4.48,13.42,A,Z,AZ,Frequent Review,0,98.0,98.0,1.0,15.37
+Amoxicillin 250mg,0.73,1.93,8.44,5.08,13.52,B,Y,BY,Periodic Review,1,111.0,110.96320202175124,1.0,15.08
+Atorvastatin 10mg,0.85,2.53,11.05,5.95,17.0,B,Y,BY,Periodic Review,0,130.0,130.0,1.0,17.95
+Avil 25mg,1.27,2.99,13.05,8.88,21.92,C,Y,CY,Basic Review,1,194.0,190.9729705575715,0.98,24.13
+Azithromycin 500mg,0.89,2.34,10.2,6.22,16.42,A,X,AX,High Priority,0,136.0,136.0,1.0,17.51
+Bandage Roll,1.54,3.84,16.77,10.75,27.52,B,Z,BZ,Periodic Review,0,235.0,235.0,1.0,31.11
+Becosules,1.04,2.92,12.77,7.27,20.04,A,Z,AZ,Frequent Review,0,159.0,159.0,1.0,22.78
+Betadine Ointment,0.52,1.53,6.68,3.61,10.3,B,Z,BZ,Periodic Review,1,79.0,78.98014041200713,1.0,11.69
+Calpol 500mg,0.65,1.91,8.35,4.58,12.93,C,Z,CZ,Basic Review,3,100.0,90.56664295818518,0.91,15.93
+Cetirizine 10mg,0.56,1.68,7.34,3.93,11.27,C,Y,CY,Basic Review,1,86.0,81.61388467842852,0.95,13.18
+Chlorpheniramine,0.88,2.14,9.33,6.18,15.5,A,Y,AY,High Priority,0,135.0,135.0,1.0,15.92
+Ciprofloxacin 500mg,0.78,2.32,10.11,5.49,15.6,B,Z,BZ,Periodic Review,2,120.0,119.43657760700711,1.0,17.84
+Clotrimazole Cream,1.19,2.75,12.02,8.33,20.34,A,Y,AY,High Priority,1,182.0,179.35790306654366,0.99,21.42
+Combiflam,1.2,3.04,13.25,8.37,21.62,A,Z,AZ,Frequent Review,1,183.0,179.87117959933062,0.98,22.98
+Crocin Advance,1.55,3.41,14.89,10.84,25.73,B,X,BX,Periodic Review,1,237.0,235.61923944457592,0.99,25.33
+Dexamethasone 4mg,1.19,2.68,11.71,8.33,20.04,B,Y,BY,Periodic Review,0,182.0,182.0,1.0,20.42
+Digene,0.92,2.61,11.37,6.41,17.78,B,Z,BZ,Periodic Review,0,140.0,140.0,1.0,19.24
+Disprin,1.04,2.44,10.66,7.27,17.93,C,X,CX,Basic Review,0,159.0,159.0,1.0,18.76
+Dolo 650mg,1.03,2.58,11.24,7.18,18.42,B,X,BX,Periodic Review,0,157.0,157.0,1.0,19.45
+Domperidone 10mg,0.9,2.46,10.76,6.31,17.07,C,Z,CZ,Basic Review,2,138.0,128.83492786605757,0.93,19.53
+Erythromycin 250mg,0.9,2.3,10.03,6.27,16.3,B,Y,BY,Periodic Review,0,137.0,137.0,1.0,16.16
+Glibenclamide 5mg,0.76,2.54,11.11,5.31,16.41,B,Z,BZ,Periodic Review,0,116.0,116.0,1.0,18.88
+Hand Sanitizer,1.12,2.75,11.99,7.87,19.86,B,X,BX,Periodic Review,1,172.0,171.8495919194147,1.0,20.92
+Hydroxychloroquine 200mg,0.78,2.24,9.76,5.44,15.21,A,Z,AZ,Frequent Review,2,119.0,110.94643078475542,0.93,16.73
+Ibuprofen 400mg,0.75,2.31,10.08,5.22,15.3,C,Z,CZ,Basic Review,3,114.0,102.76779141964448,0.9,16.57
+Insulin 30/70,0.99,3.07,13.4,6.95,20.36,A,Z,AZ,Frequent Review,2,152.0,143.76217774146804,0.95,23.87
+Ivermectin 12mg,0.9,2.51,10.94,6.27,17.21,A,Y,AY,High Priority,1,137.0,136.14507251714755,0.99,19.35
+Levocetirizine 5mg,0.67,2.5,10.93,4.67,15.59,B,Z,BZ,Periodic Review,0,102.0,102.0,1.0,19.08
+Loperamide 2mg,1.02,3.01,13.14,7.14,20.28,B,Y,BY,Periodic Review,1,156.0,150.41565130750766,0.96,22.32
+Losartan 50mg,1.14,2.98,13.03,7.96,20.99,A,Z,AZ,Frequent Review,1,174.0,164.0204814980264,0.94,23.08
+Metformin 500mg,0.56,2.44,10.64,3.93,14.58,B,Z,BZ,Periodic Review,0,86.0,86.0,1.0,18.79
+Montelukast 10mg,0.96,3.51,15.34,6.73,22.06,A,Z,AZ,Frequent Review,1,147.0,145.39666039081587,0.99,28.68
+Multivitamin Syrup,1.14,2.82,12.31,7.96,20.27,A,Z,AZ,Frequent Review,1,174.0,166.57555419452734,0.96,22.6
+N95 Mask,0.8,1.99,8.7,5.63,14.33,C,Y,CY,Basic Review,0,123.0,123.0,1.0,15.28
+Nicotine Patch,1.08,2.47,10.77,7.55,18.32,A,Y,AY,High Priority,0,165.0,165.0,1.0,19.15
+ORS Sachet,1.06,2.96,12.91,7.41,20.32,B,Y,BY,Periodic Review,1,162.0,157.22349614482619,0.97,22.92
+Omeprazole 20mg,0.67,1.78,7.79,4.71,12.5,C,Y,CY,Basic Review,1,103.0,98.28681779163378,0.95,13.9
+Pantoprazole 40mg,0.85,2.22,9.71,5.95,15.65,A,Z,AZ,Frequent Review,2,130.0,127.72368486830737,0.98,16.23
+Paracetamol 500mg,1.59,4.13,18.04,11.12,29.16,C,Y,CY,Basic Review,0,243.0,243.0,1.0,30.49
+Prednisolone 10mg,0.76,2.11,9.19,5.31,14.5,C,Y,CY,Basic Review,1,116.0,110.69321932956029,0.95,15.94
+Ranitidine 150mg,0.91,2.49,10.85,6.36,17.21,C,Z,CZ,Basic Review,0,139.0,139.0,1.0,19.1
+Salbutamol Inhaler,1.29,2.68,11.7,9.01,20.71,A,Y,AY,High Priority,0,197.0,197.0,1.0,20.19
+Surgical Gloves,1.14,2.54,11.1,8.01,19.11,A,Y,AY,High Priority,0,175.0,175.0,1.0,20.12
+Tetanus Toxoid,1.31,2.74,11.98,9.15,21.13,C,X,CX,Basic Review,0,200.0,200.0,1.0,21.4
+Thermometer,0.78,1.98,8.64,5.49,14.13,A,Y,AY,High Priority,0,120.0,120.0,1.0,15.42
+Thyroxine 50mcg,0.78,2.15,9.38,5.44,14.83,A,Y,AY,High Priority,0,119.0,119.0,1.0,16.25
+Vitamin C Tablets,1.02,2.54,11.08,7.14,18.22,B,Y,BY,Periodic Review,2,156.0,151.58937777416168,0.97,19.17
+Volini Gel,1.01,2.3,10.05,7.05,17.09,A,Y,AY,High Priority,1,154.0,153.13840736292147,0.99,17.84
+Zincovit,0.88,2.24,9.8,6.18,15.98,A,Y,AY,High Priority,2,135.0,129.5498837816984,0.96,17.03

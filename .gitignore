@@ -1,0 +1,7 @@
+BDM_DataSet.xlsx
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+Metric,Value
+Baseline Stockout Days,495.0
+Optimized Stockout Days,21.0
+Stockout Reduction (%),95.76
+Baseline Average Inventory,7.46
+Optimized Average Inventory,47.48
+Inventory Change (%),536.08
+Baseline Average Fill Rate,67.78
+Optimized Average Fill Rate,98.77

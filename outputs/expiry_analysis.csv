@@ -1,0 +1,50 @@
+Product Name,Total_Stock,Earliest_Expiry,Average_Days_To_Expiry,Minimum_Days_To_Expiry,Expiry_Risk,FEFO_Priority
+Nicotine Patch,165.0,2025-08-01,198.125,-30,Expired,1
+Ranitidine 150mg,150.0,2025-12-01,92.0,92,Moderate Risk,2
+Prednisolone 10mg,117.0,2025-12-01,92.0,92,Moderate Risk,3
+Paracetamol 500mg,240.0,2025-12-01,92.0,92,Moderate Risk,4
+ORS Sachet,125.0,2025-12-01,92.0,92,Moderate Risk,5
+N95 Mask,130.0,2025-12-01,92.0,92,Moderate Risk,6
+Multivitamin Syrup,178.0,2025-12-01,92.0,92,Moderate Risk,7
+Hand Sanitizer,170.0,2026-01-01,123.0,123,Moderate Risk,8
+Amlodipine 5mg,104.0,2026-01-01,171.0,123,Moderate Risk,9
+Vitamin C Tablets,150.0,2026-01-01,123.0,123,Moderate Risk,10
+Salbutamol Inhaler,200.0,2026-01-01,123.0,123,Moderate Risk,11
+Volini Gel,155.0,2026-01-01,123.0,123,Moderate Risk,12
+Dolo 650mg,137.0,2026-01-01,123.0,123,Moderate Risk,13
+Insulin 30/70,145.0,2026-01-01,123.0,123,Moderate Risk,14
+Digene,145.0,2026-03-01,182.0,182,Low Risk,15
+Zincovit,145.0,2026-03-01,182.0,182,Low Risk,16
+Cetirizine 10mg,85.0,2026-03-01,182.0,182,Low Risk,17
+Loperamide 2mg,155.0,2026-04-01,213.0,213,Low Risk,18
+Metformin 500mg,95.0,2026-04-01,213.0,213,Low Risk,19
+Pantoprazole 40mg,115.0,2026-04-01,213.0,213,Low Risk,20
+Ivermectin 12mg,135.0,2026-04-01,213.0,213,Low Risk,21
+Hydroxychloroquine 200mg,124.0,2026-04-01,213.0,213,Low Risk,22
+Domperidone 10mg,145.0,2026-04-01,213.0,213,Low Risk,23
+Dexamethasone 4mg,190.0,2026-04-01,213.0,213,Low Risk,24
+Avil 25mg,200.0,2026-04-01,422.14285714285717,213,Low Risk,25
+Ciprofloxacin 500mg,115.0,2026-04-01,213.0,213,Low Risk,26
+Becosules,150.0,2026-04-01,213.0,213,Low Risk,27
+Erythromycin 250mg,110.0,2026-04-01,213.0,213,Low Risk,28
+Disprin,128.0,2026-05-01,243.0,243,Low Risk,29
+Ibuprofen 400mg,115.0,2026-05-01,295.2857142857143,243,Low Risk,30
+Crocin Advance,230.0,2026-05-01,243.0,243,Low Risk,31
+Atorvastatin 10mg,132.0,2026-05-01,243.0,243,Low Risk,32
+Clotrimazole Cream,185.0,2026-05-01,243.0,243,Low Risk,33
+Betadine Ointment,78.0,2026-05-01,243.0,243,Low Risk,34
+Glibenclamide 5mg,105.0,2026-06-01,274.0,274,Low Risk,35
+Combiflam,186.0,2026-06-01,274.0,274,Low Risk,36
+Azithromycin 500mg,145.0,2026-07-01,304.0,304,Low Risk,37
+Calpol 500mg,97.0,2026-07-01,304.0,304,Low Risk,38
+Allegra 120mg,185.0,2026-07-01,396.0,304,Low Risk,39
+Chlorpheniramine,140.0,2026-12-01,457.0,457,Low Risk,40
+Bandage Roll,240.0,2026-12-01,487.0,457,Low Risk,41
+Levocetirizine 5mg,105.0,2026-12-01,457.0,457,Low Risk,42
+Omeprazole 20mg,105.0,2026-12-01,457.0,457,Low Risk,43
+Montelukast 10mg,160.0,2027-01-01,488.0,488,Low Risk,44
+Losartan 50mg,175.0,2027-01-01,488.0,488,Low Risk,45
+Surgical Gloves,180.0,2027-01-01,488.0,488,Low Risk,46
+Thyroxine 50mcg,130.0,2027-04-01,578.0,578,Low Risk,47
+Amoxicillin 250mg,104.0,2027-06-01,679.6666666666666,639,Low Risk,48
+Tetanus Toxoid,200.0,2028-04-01,944.0,944,Low Risk,49
