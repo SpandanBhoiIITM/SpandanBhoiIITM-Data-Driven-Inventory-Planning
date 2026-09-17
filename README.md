@@ -20,13 +20,15 @@ model the owner can actually use — without needing any technical background.
 
 ## Dashboard Screenshots
 
-![Dashboard](screenshots/f98c9bdc-bd2b-4bff-8d10-2c78d639cb3d(1).png)
+## Dashboard Screenshots
 
-![Sales Overview](screenshots/44d0cd69-73a4-40da-bcc9-25fdc0e83341(1).png)
+![Dashboard](239c3899-c67f-4a4e-baf2-29ba90ab231a.png)
 
-![Expiry Risk](screenshots/05115847-f435-4640-9f8c-d7c5e8087008(1).png)
+![Sales Overview](05115847-f435-4640-9f8c-d7c5e8087008.png)
 
-![Product Demand History](screenshots/239c3899-c67f-4a4e-baf2-29ba90ab231a(1).png)
+![Expiry Risk](44d0cd69-73a4-40da-bcc9-25fdc0e83341.png)
+
+![Product Demand History](f98c9bdc-bd2b-4bff-8d10-2c78d639cb3d.png)
 
 ## Objectives
 
